@@ -13,4 +13,4 @@ Briefly decribe the files that are included with your repository:
 
 ## Results
 
-- Links to images, text., etc., capturing your project results. 
+- File (or links) to characteristic output of your system, capturing your project results. 
