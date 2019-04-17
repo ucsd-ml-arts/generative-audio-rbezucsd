@@ -9,7 +9,7 @@ Include your abstract here. This should be one paragraph clearly describing your
 Briefly decribe the files that are included with your repository:
 - corpus.txt - your training data.
 - training_code.py or training_code.ipynb - your training code
-- generaive_code.py or generative_code.ipynb - your generation code
+- generative_code.py or generative_code.ipynb - your generation code
 
 ## Results
 
