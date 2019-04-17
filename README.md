@@ -17,6 +17,13 @@ Briefly decribe the files that are included with your repository:
 
 - File (or links) to characteristic output of your system, capturing your project results. 
 
+## Notes
+
+Any implementation details or notes on repeating your work. 
+
+- Does this code require other pip packages, software, etc?
+- Does it run on other platform?
+
 ## Reference
 
 Project requirements: [doc](https://docs.google.com/document/d/13ueceIyuUc4ATD7B-SFZK641MycFZ57eZ9n1lQ3Y1CM/edit?usp=sharing)
