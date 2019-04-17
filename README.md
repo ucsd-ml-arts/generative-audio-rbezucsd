@@ -15,7 +15,7 @@ Briefly decribe the files that are included with your repository:
 
 ## Results
 
-- File (or links) to characteristic output of your system, capturing your project results. 
+- A file with your generated text (.pdf, .doc, .txt). This should document your creative output.
 
 ## Notes
 
