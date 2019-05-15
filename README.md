@@ -1,29 +1,41 @@
-# Project 1 Generative Text
+# Project 3 Generative Audio
 
 Your Name, yourcontact@ucsd.edu
+(Your teammates contact info, if appropriate)
 
 ## Abstract
 
 Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used.
 
-## Files
+## Model/Data
 
-Briefly decribe the files that are included with your repository:
-- corpus.txt - your training data.
-- training_code.py or training_code.ipynb - your training code
-- generative_code.py or generative_code.ipynb - your generation code
+Briefly describe the files that are included with your repository:
+- trained models
+- training data (or link to training data)
+
+## Code
+
+Your code for generating your project
+- Python: generative_code.py
+- Jupyter notebooks: generative_code.ipynb
 
 ## Results
 
-- A file with your generated text (.pdf, .doc, .txt). This should document your creative output.
+Documentation of your results in an appropriate format:
+- `.wav` files or `.mp4`
+- `.midi` files
+- musical scores
+- ... some other form
 
-## Notes
+## Technical Notes
 
-Any implementation details or notes on repeating your work. 
-
+Any implementation details or notes we need to repeat your work. 
 - Does this code require other pip packages, software, etc?
-- Does it run on other platform?
+- Does it run on some other (non-datahub) platform? (CoLab, etc.)
 
 ## Reference
 
-Project requirements: [doc](https://docs.google.com/document/d/13ueceIyuUc4ATD7B-SFZK641MycFZ57eZ9n1lQ3Y1CM/edit?usp=sharing)
+References to any papers, techniques, repositories you used:
+- Papers
+- Repositories
+- Blog posts
