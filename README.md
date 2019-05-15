@@ -16,13 +16,13 @@ Briefly describe the files that are included with your repository:
 
 ## Code
 
-Your code for generating your project
+Your code for generating your project:
 - Python: generative_code.py
 - Jupyter notebooks: generative_code.ipynb
 
 ## Results
 
-Documentation of your results in an appropriate format:
+Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
 - `.wav` files or `.mp4`
 - `.midi` files
 - musical scores
