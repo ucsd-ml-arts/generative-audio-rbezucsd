@@ -2,7 +2,7 @@
 
 Your Name, yourcontact@ucsd.edu
 
-(Your teammates contact info, if appropriate)
+(Your teammate's contact info, if appropriate)
 
 ## Abstract
 
